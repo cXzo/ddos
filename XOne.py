@@ -22,8 +22,8 @@ os.system("clear")
 os.system("figlet XOne DDOS ATTACK")
 print
 print "Author   : ????"
-print "   i just a kid :) "
-print "Thanks  to : All cyber team "
+print "   wow you read it: "
+print "Thanks  to : All people "
 print  "use this tool for good, not for evil"
 print
 ip = raw_input("IP Target : ")
