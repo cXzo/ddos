@@ -52,7 +52,7 @@ print "50%"
 time.sleep(5)
 print "nugguin yaaa wkwkwkwkkw"
 time.sleep(5)
- print('\x1b[6;30;42m' + 'selesai!' + '\x1b[0m')
+ print'\x1b[6;30;42m' + 'selesai!' + '\x1b[0m'
 time.sleep(3)
 sent = 0
 while True:
