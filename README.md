@@ -1,2 +1,2 @@
 # ddos
-Tools ddos
+Using python2
